@@ -1,1 +1,1 @@
-# bank-management-project
+# atm-system-project
